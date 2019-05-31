@@ -1,9 +1,13 @@
 body{
-    background-color: #506400;
+    background-color: orchid;
     font-style: initial;
+    font-size: 24px;
+    
 }
 
 button{
     background-color: palegreen;
     font-style: italic;
+    font-size: 16px;
+    border-color: gold;
 }

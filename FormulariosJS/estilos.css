@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    font-size: 15px;
+    
+}
+
+p{
+    color: tomato;
+    font-size: 20px;
+}
